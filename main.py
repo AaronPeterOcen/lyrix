@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import lyricsgenius
 
 # Replace with your actual Genius API key
