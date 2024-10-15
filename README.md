@@ -62,3 +62,8 @@ Enter the artist name: Major Lazer
 
 Lyrics saved to Lean_On_lyrics.txt
 ```
+
+## Troubleshooting
+
+If the script doesn't find the lyrics, make sure the song and artist names are spelled correctly.
+Check your Genius API key if you encounter an authentication error.
