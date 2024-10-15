@@ -1,7 +1,7 @@
 import lyricsgenius
 
 # Replace with your actual Genius API key
-GENIUS_API_KEY = 'QnQsq4DVcvOy3BMT1P4CbcD5vITlCiVumBWRAgUtkkA85TGwZPgcxuglAqZHL0QT'
+GENIUS_API_KEY = 'your_genius_api_key'
 
 # Create a Genius object
 genius = lyricsgenius.Genius(GENIUS_API_KEY)
