@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
 import lyricsgenius
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Replace with your actual Genius API key
 GENIUS_API_KEY = 'your_genius_api_key'
